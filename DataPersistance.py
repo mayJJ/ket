@@ -5,7 +5,7 @@ class DataPersistance():
     def __init__(self):
         self.host = 'localhost'
         self.username = 'root'
-        self.password = 'ymj710823'
+        self.password = 'password'
         self.database = 'ket'
         self.port = 3306
 
